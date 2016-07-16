@@ -1,0 +1,28 @@
+make a new branch
+
+1. git checkout -b branch_name
+
+create a new file
+
+1. touch file_name
+
+open file in subl
+
+1. subl file_name
+
+save and close
+
+1. save - command+s
+2. close - command+w
+
+commit changes to repository
+
+1. git status
+2. git add .
+3. git commit -m "message here"
+4. git push origin branch_name
+
+submit a pull request
+
+1. go to github webpage
+2. in repository 
