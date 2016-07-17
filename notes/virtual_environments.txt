@@ -1,0 +1,15 @@
+make a virtual environment
+
+1. mkvirtualenv environment_name
+
+deactivate a virtual environment
+
+1. deactivate
+
+activate a virtual environment
+
+1. workon environment_name
+
+delete a virtual environment
+
+1. rm -r ~/Envs/environment_name
