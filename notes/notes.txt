@@ -1,3 +1,6 @@
+cre
+
+
 make a new branch
 
 1. git checkout -b branch_name
@@ -25,11 +28,11 @@ commit changes to repository
 submit a pull request
 
 1. go to github webpage
-2. in repository, click compare and pull request 
+2. in repository, click compare and pull request
 3. add coments if needed, click create pull request
 4. review code via commits tab
-5. add baxline to assignes 
-6. if everything looks good, click merge pull request 
+5. add baxline to assignes
+6. if everything looks good, click merge pull request
 7. click confirm
 8. click delete branch if wanted
 
